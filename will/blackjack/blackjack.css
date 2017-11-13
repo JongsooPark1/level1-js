@@ -12,6 +12,10 @@ h1 {
   color : white;
 }
 
+#money {
+  color : #1cd81f;
+}
+
 #message {
   font-size: 26px;
   color : magenta;
