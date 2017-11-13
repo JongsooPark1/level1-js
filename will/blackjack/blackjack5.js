@@ -218,7 +218,7 @@ function start() {
   playerScore.innerHTML = player.scoreSum;
   message.innerHTML = "hit or stand?";
   totalMoney.innerHTML = player.money;
-  setTimeout(function() { drawBack();}, 10);
+  setTimeout(function() { drawBack();}, 30);
 }
 
 function newGame() {
